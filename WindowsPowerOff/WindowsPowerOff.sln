@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsPowerOff", "WindowsPowerOff\WindowsPowerOff.csproj", "{EDD100A4-CC8C-4A16-85C8-76878CD52E00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDD100A4-CC8C-4A16-85C8-76878CD52E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD100A4-CC8C-4A16-85C8-76878CD52E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD100A4-CC8C-4A16-85C8-76878CD52E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD100A4-CC8C-4A16-85C8-76878CD52E00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C401A03A-080F-4610-AD38-D1F4F048F2E4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\Marco\source\repos\windows-power-off\WindowsPowerOff\WindowsPowerOff\bin\Debug\WindowsPowerOff.exe.config
+C:\Users\Marco\source\repos\windows-power-off\WindowsPowerOff\WindowsPowerOff\bin\Debug\WindowsPowerOff.exe
+C:\Users\Marco\source\repos\windows-power-off\WindowsPowerOff\WindowsPowerOff\bin\Debug\WindowsPowerOff.pdb
+C:\Users\Marco\source\repos\windows-power-off\WindowsPowerOff\WindowsPowerOff\obj\Debug\WindowsPowerOff.csprojAssemblyReference.cache
+C:\Users\Marco\source\repos\windows-power-off\WindowsPowerOff\WindowsPowerOff\obj\Debug\WindowsPowerOff.Form1.resources
+C:\Users\Marco\source\repos\windows-power-off\WindowsPowerOff\WindowsPowerOff\obj\Debug\WindowsPowerOff.Properties.Resources.resources
+C:\Users\Marco\source\repos\windows-power-off\WindowsPowerOff\WindowsPowerOff\obj\Debug\WindowsPowerOff.csproj.GenerateResource.cache
+C:\Users\Marco\source\repos\windows-power-off\WindowsPowerOff\WindowsPowerOff\obj\Debug\WindowsPowerOff.csproj.CoreCompileInputs.cache
+C:\Users\Marco\source\repos\windows-power-off\WindowsPowerOff\WindowsPowerOff\obj\Debug\WindowsPowerOff.exe
+C:\Users\Marco\source\repos\windows-power-off\WindowsPowerOff\WindowsPowerOff\obj\Debug\WindowsPowerOff.pdb
